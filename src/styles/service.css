@@ -1,0 +1,22 @@
+.input-fields{
+  display: flex;
+  flex-direction: column;
+
+  label{
+    background: lightblue ;
+
+    padding: 10px 0;
+    border-radius: 12px;
+    text-align: center;
+    margin-bottom: 12px;
+    cursor: pointer;
+    input[type='radio']{
+      display: none;
+    }
+  }
+}
+
+.service-selected,.department-selected{
+  background: blue !important;
+  color: white;
+}

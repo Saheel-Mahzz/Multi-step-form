@@ -1,0 +1,13 @@
+.review-list{
+background: #FAF0E6;
+padding: 8px;
+border-radius: 12px;
+list-style: none;
+li{
+
+  background: white;
+margin: 0 8px 8px;
+padding: 8px 16px;
+border-radius: inherit;
+}
+}

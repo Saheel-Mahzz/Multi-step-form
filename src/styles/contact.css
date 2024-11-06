@@ -1,0 +1,13 @@
+.contact-input-fields{
+  display: flex;
+  flex-direction: column;
+  input{
+    padding: 10px 12px;
+    border-radius: 12px;
+    margin-bottom: 12px;
+    outline: none;
+    border: 1px solid gray;
+    font-size: 16px;
+    color: gray;
+  }
+}
